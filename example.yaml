@@ -1,0 +1,6 @@
+zone: example.com.
+rrsets:
+- name: www.example.com.
+  type: A
+  values:
+  - 127.0.0.1
